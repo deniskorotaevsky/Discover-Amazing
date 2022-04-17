@@ -539,7 +539,6 @@ h1,h2,h3,h4,h5,h6{
     color: #006DFE;
 }
 
-
 .section-right__text {
     font-size: 16px;
     line-height: 24px;
@@ -849,7 +848,6 @@ h1,h2,h3,h4,h5,h6{
     width: 100%;
 }
 
-
 .wrap__box {
     display: flex;
     flex-direction: column;
@@ -1112,7 +1110,7 @@ h1,h2,h3,h4,h5,h6{
         justify-content: center;
         margin-top: 7.5%;
     }
-  }
+}
 
 @media (max-width: 575px) {
     
